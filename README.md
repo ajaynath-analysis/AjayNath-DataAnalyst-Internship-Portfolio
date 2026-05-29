@@ -26,7 +26,7 @@ Throughout the internship, I applied data cleaning, exploratory data analysis, b
 - Data Preparation
 
 #### Repository
-[Task 1 Repository Link]
+(https://github.com/ajaynath-analysis/Airbnb-NYC-2019-Data-wrangling)
 
 ---
 
@@ -46,7 +46,7 @@ Throughout the internship, I applied data cleaning, exploratory data analysis, b
 - Pivot Tables
 
 #### Repository
-[Task 2 Repository Link]
+https://github.com/ajaynath-analysis/Airbnb-NYC-2019-EDA
 
 ---
 
@@ -64,7 +64,7 @@ Throughout the internship, I applied data cleaning, exploratory data analysis, b
 - Interactive Reporting
 
 #### Repository
-[Task 3 Repository Link]
+https://github.com/ajaynath-analysis/Airbnb-NYC-2019-Deep-Dive-Analysis-and-Interactive-Dashboard
 
 ---
 
@@ -82,7 +82,7 @@ Throughout the internship, I applied data cleaning, exploratory data analysis, b
 - Presentation Design
 
 #### Repository
-[Task 4 Repository Link]
+https://github.com/ajaynath-analysis/Airbnb-NYC-2019-Data-Storytelling-and-Statistical-Validation
 
 ---
 
